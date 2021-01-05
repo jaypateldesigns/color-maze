@@ -2,8 +2,8 @@
     "name": "color-maze",
     "displayName": "Color Maze",
     "description": "Color theme based on Retro and Modern colors ",
-    "version": "0.0.1",
-    "publisher": "JayPatel",
+    "version": "0.0.3",
+    "publisher": "JayPatelDesigns",
     "author": {
         "name": "Jay Patel",
         "url": "https://jaypateldesigns.com/"
@@ -13,7 +13,7 @@
         "url": "https://github.com/jaypateldesigns/color-maze"
       },
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.15.0"
     },
     "icon": "images/color-maze.png",
     "galleryBanner": {
